@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
+  "versionCode": 20260401,
   "versionName": "1.0.0",
   "apkUrl": "https://raw.githubusercontent.com/liang-yuanting/bestWayUpdate/main/APP/Dog-Lidar/123.apk",
-  "updateLog": "1. 修复XXX问题；2. 新增XX功能；3. 其他优化",
+  "updateLog": "2026-03-31\n[修复了XXX；新增了XXX；]\n\n2026-04-01\n[修复了XXX；新增了XXX；]\n\n",
   "forceUpdate": false
 }
